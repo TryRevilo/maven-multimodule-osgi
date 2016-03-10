@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: OSGiDmHelloWorldProvider
+Built-By: Revilo
+Bnd-LastModified: 1457620197882
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Baptiste Wicht
+Import-Package: com.bw.osgi.provider.able,org.osgi.framework;version="
+ [1.8,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.0.0.201509101326
+Export-Package: com.bw.osgi.provider.able;version="1.0.0"
+Bundle-Name: OSGiDmHelloWorldProvider
+Bundle-Version: 1.0.0
+Bundle-Activator: com.bw.osgi.provider.ProviderActivator
+Build-Jdk: 1.8.0_71
+Created-By: Apache Maven Bundle Plugin
+

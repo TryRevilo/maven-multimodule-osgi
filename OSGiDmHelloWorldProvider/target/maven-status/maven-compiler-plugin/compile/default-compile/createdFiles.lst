@@ -1,0 +1,3 @@
+com\bw\osgi\provider\ProviderActivator.class
+com\bw\osgi\provider\able\HelloWorldService.class
+com\bw\osgi\provider\impl\HelloWorldServiceImpl.class

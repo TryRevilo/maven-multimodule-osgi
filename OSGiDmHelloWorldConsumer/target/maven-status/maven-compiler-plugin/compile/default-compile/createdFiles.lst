@@ -1,0 +1,5 @@
+com\bw\osgi\consumer\HelloWorldConsumer.class
+com\bw\osgi\consumer\HelloWorldActivator.class
+com\bw\osgi\consumer\ConsumerWindow$Action2.class
+com\bw\osgi\consumer\ConsumerWindow$Action1.class
+com\bw\osgi\consumer\ConsumerWindow.class

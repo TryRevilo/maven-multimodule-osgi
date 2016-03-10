@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: dist
+Built-By: Revilo
+Bnd-LastModified: 1457620207214
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Baptiste Wicht
+Import-Package: org.osgi.framework;version="[1.8,2)",org.osgi.framewor
+ k.launch;version="[1.2,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.0.0.201509101326
+Bundle-Name: dist
+Bundle-Version: 1.0.0.SNAPSHOT
+Build-Jdk: 1.8.0_71
+Created-By: Apache Maven Bundle Plugin
+
